@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Omid Jafari! 👋
 
-<!--
-**Omid-Jafari/Omid-Jafari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Front-End Developer** passionate about building scalable and responsive web applications. With over 3 years of experience, I specialize in modern **JavaScript frameworks** like **React** and **Next.js**. I love using **Test-Driven Development (TDD)** to deliver high-quality, maintainable code.
 
-Here are some ideas to get you started:
+## 💼 Projects
+- **[Timo Store POS](https://github.com/Omid-Jafari/timo-store-pos):** A robust POS system for retail operations.
+- **[Dr Gamification](https://github.com/Omid-Jafari/dr_gamification_frontend):** An educational app for children promoting environmental cleanliness.
+- **[Timo Front-End](https://github.com/Omid-Jafari/timo-front-end):** A multilingual eCommerce website.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- **Languages & Frameworks:** React, Next.js, JavaScript, TypeScript  
+- **Styling:** Tailwind CSS, MUI, Radix UI  
+- **State Management:** Redux, Zustand, React Query  
+- **Tools:** Vitest, Storybook, Sentry  
+
+## 🌱 I'm currently exploring:
+- Advanced charting tools like **Highcharts** and **Lightweight Charts**  
+- Scaling web applications with TDD and modern frameworks.
+
+---
+
+### **Let's Connect!**
+- LinkedIn: [Omid Jafari](https://www.linkedin.com/in/omid-jafari-926867228/)
+- Portfolio: [Coming Soon!]
