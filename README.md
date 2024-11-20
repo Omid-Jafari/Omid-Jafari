@@ -9,7 +9,7 @@ I'm a **Front-End Developer** passionate about building scalable and responsive 
 
 ## 🔧 Skills
 - **Languages & Frameworks:** React, Next.js, JavaScript, TypeScript  
-- **Styling:** Tailwind CSS, MUI, Radix UI  
+- **Styling:** Tailwind CSS, Shadcn, MUI, Radix UI  
 - **State Management:** Redux, Zustand, React Query  
 - **Tools:** Vitest, Storybook, Sentry  
 
